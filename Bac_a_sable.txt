@@ -1,0 +1,31 @@
+﻿//public void Test()
+//ManagementScope oMs = new ManagementScope();
+//ObjectQuery oQuery =
+//new ObjectQuery("Select * From Win32_NetworkAdapter");
+//ManagementObjectSearcher oSearcher = new ManagementObjectSearcher(oMs, oQuery);
+//ManagementObjectCollection oReturnCollection = oSearcher.Get();  
+//foreach (ManagementObject oReturn in oReturnCollection) 
+//{
+//if (oReturn.Properties["NetConnectionID"].Value != null)  
+//{
+//Console.WriteLine("Name : " + oReturn.Properties["NetConnectionID"].Value);
+//}
+//} 
+
+
+//--------------------------------------------------------------------;
+//CONTROLE DE L'ACCES INTERNET RECURSIF
+//if (this.test_web=true)
+//{
+//    this.PB_InternetCheck.BackgroundImage=Properties.Resources.OK;
+//    this.BT_Serveur3IDM.Enabled=true;
+//}
+//else
+//{
+//    this.PB_InternetCheck.BackgroundImage=Properties.Resources.NOK;
+//    this.BT_Serveur3IDM.Enabled=false;
+//}
+//private static string GetStringForSSID(Wlan.Dot11Ssid ssid)
+//{
+//    return Encoding.ASCII.GetString(ssid.SSID, 0, System.Convert.ToInt32(ssid.SSIDLength));
+//}
