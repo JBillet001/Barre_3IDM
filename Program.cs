@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Barre_3IDM
+namespace _3IDM_Toolbar
 {
     internal static class Program
     {
